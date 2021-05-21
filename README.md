@@ -1,2 +1,2 @@
 # Media
-![](/hallacash_800x800.png)
+![](/hallacash2.0_800x800.png)
